@@ -9,6 +9,6 @@ public class Main {
         FeatureSun Xeron=new FeatureSun();
         Xeron.heat="12345";
         Xeron.size=25;
-        Xeron.temperature="85";
+        Xeron.temperature=85;
     }
 }
